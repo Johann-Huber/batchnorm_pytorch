@@ -1,3 +1,3 @@
-###Batch Normalization reimplementation
+Batch Normalization reimplementation
 
 A simple reimplementation of BatchNormalization using Pytorch.
